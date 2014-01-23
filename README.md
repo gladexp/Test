@@ -1,7 +1,9 @@
-This is Test README file created on Jan 23, 2014
+1. Introduction:
 ====
+Test file for the GitHub Reps (Jan 23, 2014).
 
-Test file for the GitHub Reps.
+2. Installation:
+===
+Step 1:
 
-This is Test README file created on Jan 23, 2014
-====
+Step 2:
